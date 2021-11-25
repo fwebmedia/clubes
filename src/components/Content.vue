@@ -142,9 +142,6 @@
     </div>
 </template>
 <script>
-//import moment from 'moment';
-    /*var fecha = document.getElementById("fecha").value;
-    console.log(fecha);*/
 export default {
     name: 'Content'
 }
@@ -161,7 +158,6 @@ label{
     background-color: #1f4164!important;
     height: 5px;
 }
-
 .hr-celeste {
     background-color: #008fd6!important;
     height: 5px;
@@ -169,7 +165,6 @@ label{
 a{
     color:#1f4164!important;
 }
-
 a:hover{
     color:#008fd6!important;
 }
